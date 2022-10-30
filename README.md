@@ -5,7 +5,7 @@ Estou aprendendo a criar sites e, agora vou gerenciar meus respositórios!
 
 <p> Exercício 1</p>
 <a href="https://jhon-victor-ramos.github.io/HTML-CSS/
-Exerc%C3%ADcio/001/index.html"></a><br><br>
+Exerc%C3%ADcio/001/index.html">--[ EXECUTAR O EXERCÍCIO 001 ]--</a><br><br>
 <p> Exercício 2</p>
 <a href="https://jhon-victor-ramos.github.io/HTML-CSS/
-Exerc%C3%ADcio/002/index.html"></a><br><br>
+Exerc%C3%ADcio/002/index.html">--[ EXECUTAR O EXERCÍCIO 001 ]--</a><br><br>
