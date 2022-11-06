@@ -48,7 +48,7 @@ header{
     background-image: linear-gradient(360deg,#063d1e,#2fa866 80%);
     height: 150px;
     width: 100vw;
-    text-align: center;
+        text-align: center;
 }
 header>h1{
     color: white;
